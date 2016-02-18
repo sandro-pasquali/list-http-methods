@@ -16,5 +16,16 @@
   },
   "devDependencies": {
     "surveyor": "^2.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandro-pasquali/list-http-methods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandro-pasquali/list-http-methods/issues"
+  },
+  "homepage": "https://github.com/sandro-pasquali/list-http-methods#readme"
 }
